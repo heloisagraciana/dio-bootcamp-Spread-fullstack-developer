@@ -1,2 +1,3 @@
-# dio-bootcamp-Spread-fullstack-developer
-Repositório para anotações e registros de toda a jornada no Bootscamp Spread Fullstack Developer na plataforma da DIO.me
+# DIO | Bootcamp Repositório Spread Fullstack Developer
+
+Este repositório servirá para anotações e registros de toda a jornada e aprendizado adquiridos no bootcamp Spread Fullstack Developer.
